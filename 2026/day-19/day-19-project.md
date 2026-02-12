@@ -132,13 +132,7 @@ find "$DEST" -name "backup-*.tar.gz" -mtime +14 -delete
 
 ### 📖 Cron Syntax Reminder
 
-* * * * *
-│ │ │ │ │
-│ │ │ │ └── Day of week (0-7)
-│ │ │ └──── Month (1-12)
-│ │ └────── Day of month (1-31)
-│ └──────── Hour (0-23)
-└────────── Minute (0-59)
+<img width="347" height="212" alt="Screenshot 2026-02-12 195158" src="https://github.com/user-attachments/assets/8b04ecba-b9f7-4242-9dfd-7b7908a8cfab" />
 
 
 ---
