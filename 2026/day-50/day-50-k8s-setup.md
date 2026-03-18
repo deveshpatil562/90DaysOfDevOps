@@ -30,8 +30,7 @@ Kubernetes was created by Google based on their internal system Borg. It helps m
 
 ## 📊 Clean Architecture Diagram
 
-![Uploading Kubernetes Architecture.png…]()
-
+<img width="1877" height="806" alt="Kubernetes Architecture" src="https://github.com/user-attachments/assets/4310672a-e4f5-425e-b96c-181ea0ee5357" />
 
 ---
 
